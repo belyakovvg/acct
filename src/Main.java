@@ -29,6 +29,7 @@ public class Main{
         System.out.println(" usd = " + a1.usd());
         double d = a1.usd();
         System.out.println(d);
+        System.out.println(d);
   //      boolean b = a1.isMultyVal();
 //        Account acc1 = new Account("Сидоров А.А.");
 //        Account acc2 = new Account("Петров В.В.");

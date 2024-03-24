@@ -7,6 +7,7 @@ public interface Cashable {
     public void sayAbout();
 
 
+
     public Double rub();
     public Double usd();
 }

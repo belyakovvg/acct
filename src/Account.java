@@ -10,7 +10,7 @@ public class Account implements Cashable{
                 new CashableInvHadler(this));
     }
     // конструкторы
-    private Account() {};
+    private Account() {}
 
     public Account(String name) {
         this.setName(name);
